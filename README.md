@@ -21,7 +21,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Berkant3737&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 😂 Front End and Back End Meme
 <img src="https://camo.githubusercontent.com/afa4c2c77220bbd45cf7594f873fa3c4352b712f9d27c76f25b1b6a707260ca7/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4561455153326955594145614864352e6a7067" width="512px"/>
 
 ---
